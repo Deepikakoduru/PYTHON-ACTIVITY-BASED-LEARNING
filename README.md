@@ -6,16 +6,28 @@
 - **Roll Number:** 26000091
 - **Branch:** CSE
 - **Section:** 2
+- 
 SELECTED CASE STUDIES:
+
 Case 1:University Scholarship Allocation
+
 Case 2:Progressive Electricity Billing
+
+
 Case 4:Employee Payroll and Deduction Analysis
+
 Case 7:Retail Billing with Multiple Discount Rules
+
 Case 10:Campus Event Financial PlanninG
+
 Case 11:Examination Result and Grace-Mark Validation
+
 Case 12:Attendance Recovery Computation
+
 Case 13:ATM Transaction Sequence Simulation
+
 Case 14:Warehouse Inventory Reconciliation
+
 Case 27:Advanced Numeric Pattern Generator
 
 ## Introduction
